@@ -1,0 +1,19 @@
+section {
+	text-align: center;
+}
+h1 {
+	font-size: 60px;
+}
+p {
+	font-size: 20px;
+}
+.mapa {
+	margin-top: 30px;
+	margin-left: 20px;
+}
+.video {
+	margin-top: 30px;
+}
+body {
+	background: #A9A9A9;
+}
